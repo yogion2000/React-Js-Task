@@ -1,0 +1,19 @@
+.card-color{
+    background-color:#f3faff;
+}
+.boxOne{
+    box-shadow:0px -10px 0px #fb778b;
+    border-radius: 20px;
+}
+.boxTwo{
+    box-shadow:0px -10px 0px #4bbbeaff ;
+    border-radius: 20px;
+}
+.boxThree{
+    box-shadow:0px -10px 0px #39cbaeff;
+    border-radius: 20px;
+}
+.boxFour{
+    box-shadow:0px -10px 0px #fdc94e ;
+    border-radius: 20px;
+}

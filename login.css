@@ -1,0 +1,19 @@
+.maindiv{
+    height:100vh;
+    background-image: linear-gradient(to right,#8300cd,#b600c4);
+}
+.box1{
+    background-color: white;
+    height:fit-content;
+    width: 50vw;
+
+}
+p{
+    font-size: smaller;
+}
+.circle{
+    background-color:#e5e5e5;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}

@@ -1,0 +1,11 @@
+.countOut{
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.countMain{
+    height: 100vh;
+    background-color: antiquewhite;
+}
+.countBtn{
+    width: 20vw;
+}

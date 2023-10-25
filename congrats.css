@@ -1,0 +1,22 @@
+.bluebox{
+    background-color: skyblue;
+    width: fit-content;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boxer{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    height: 100vh;
+} 
+h1{
+    text-align: center;
+}
+img{
+    margin-top: 10px;
+}
+/* .container{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    height: 100vh;
+} */

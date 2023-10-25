@@ -1,0 +1,13 @@
+.bgs{
+    background-image: url(https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg?w=826&t=st=1697359023~exp=1697359623~hmac=7fee65cb7784172213ff6b0bdd823e1b26e88d63d6a4af01f1385bfb6cd6b6e3);
+    background-size: cover;
+    height: 100vh;
+    padding-top: 130px;
+}
+.heading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:70px;
+}
+.box{
+    width: 40vw;
+}
